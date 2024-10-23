@@ -1,4 +1,4 @@
-def f(x): 
+def arithmetic_mean(x): 
   n = len(x)
   average = sum(x)/n
   return mean
