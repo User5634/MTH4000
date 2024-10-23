@@ -1,0 +1,4 @@
+def f(x): 
+  n = len(x)
+  average = sum(x)/n
+  return mean
